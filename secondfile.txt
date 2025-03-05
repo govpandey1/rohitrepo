@@ -1,0 +1,11 @@
+git clone url
+git status
+git checkout -b branchname
+git add .
+git commit -m ""
+git push origin branchname
+create the pull request
+
+
+git branch -b branch
+git checkout branchname
